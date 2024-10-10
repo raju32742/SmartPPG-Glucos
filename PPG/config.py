@@ -1,8 +1,4 @@
 
-# -*-coding: utf-8 -
-'''
-    @author: Md. Rezwanul Haque
-'''
 from random import randint
 class config:
     #---------------------------------
