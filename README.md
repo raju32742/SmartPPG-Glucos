@@ -4,7 +4,10 @@
 Diabetes is a perpetual metabolic issue that can prompt severe complications. Blood glucose level (BGL) is usually monitored by collecting a blood sample and assessing the results. This type of measurement is extremely unpleasant and inconvenient for the patient, who must undergo it frequently. This paper proposes a novel real-time, non-invasive technique for estimating BGL with smartphone photoplethysmogram (PPG) signal extracted from fingertip video and deep neural networks (DNN). Fingertip videos are collected from 93 subjects using a smartphone camera and a lighting source, and subsequently the frames are converted into PPG signal. The PPG signals have been preprocessed with Butterworth bandpass filter to eliminate high frequency noise, and motion artifact. Therefore, there are 34 features that are derived from the PPG signal and its derivatives and Fourier transformed form. In addition, age and gender are also included as features due to their considerable influence on glucose. Maximal information coefficient (MIC) feature selection technique has been applied for selecting the best feature set for obtaining good accuracy. Finally, the DNN model has been established to determine BGL non-invasively. DNN model along with the MIC feature selection technique outperformed in estimating BGL with the coefficient of determination ( R^2) of 0.96, implying a good relationship between glucose level and selected features. The results of the experiments suggest that the proposed method can be used clinically to determine BGL without drawing blood.
 </div>
 
-
+<div align="center">
+    <img src="Figures/system" alt="Alt text" title="Hover text" height="400" width="500"/>
+    <p><em>Figure 1: Architecture of our proposed TransUAAE-CapGen  model for histopathological caption generation.</em></p>
+</div>
 
 ### Dataset requirements
 
