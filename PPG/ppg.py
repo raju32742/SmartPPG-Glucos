@@ -1,7 +1,4 @@
-#-*- coding: utf-8 -*-
-"""
-@author: Md. Rezwanul Haque
-"""
+
 import sys
 from numpy import NaN, Inf, arange, isscalar, asarray, array
 import numpy as np
