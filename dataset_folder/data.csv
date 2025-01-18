@@ -1,7 +1,6 @@
 ID,Patient's ID,Patient's Name,Age,Sex(M/F),Hb (g/dL),Gl (mmol/L),Cr (ml/dl)
 1,9186,Amena,34,F,11.9,4.27,0.94
 2,9187,Purnima,22,F,12.1,4.44,1.02
-3,9188,Sajib,23,M,14.3,5.6,1.03
 4,9189,Yesmin,40,F,13.6,6.7,0.92
 5,9185,Jony Barua,35,M,12.3,12.8,1.3
 
