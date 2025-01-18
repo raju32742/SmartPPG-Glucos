@@ -24,9 +24,9 @@ create a dataset as follows:
 ```
 dataset_folder
     |-raw_videos
-        |-sample_1.mp4
+        |-1.mp4
         |-2.mp4
-        |-sample-3.mp4
+        |-3.mp4
         |-...........
         |-...........
 
